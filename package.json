@@ -1,7 +1,7 @@
 {
   "name": "shunguang-native-echarts",
-  "version": "1.0.0",
-  "description": "修复native-echarts安卓release包不展示图表、ios下显示比例过小问题",
+  "version": "1.0.1",
+  "description": "修复ios下图表闪烁的问题",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
